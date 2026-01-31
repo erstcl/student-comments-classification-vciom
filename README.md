@@ -144,7 +144,7 @@ Automatically classify open-ended survey responses by theme
 
 - **Source**: University social media pages (VKontakte)
 - **Time period**: 2020-2024
-- **Size**: ~3,000 labeled posts + thousands unlabeled
+- **Size**: ~161 labeled posts + 1409 unlabeled
 - **Language**: Russian
 - **Labels**: 4 categories (engagement, living conditions, finances, loyalty)
 
@@ -154,7 +154,7 @@ Dataset provided by VCIOM as part of ongoing research commissioned by the Minist
 
 ## Documentation
 
-- [Team presentation](/презентация_хакатон_ии_вциом.pdf) — solution overview with use cases
+- [Team presentation](/vciom_presentation.pdf) — solution overview with use cases
 - [Labeled dataset](/dataframe_labeled.csv) — training data with categories
 - [Full dataset](/dataframe_all.csv) — complete dataset for prediction
 
